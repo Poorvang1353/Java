@@ -1,6 +1,6 @@
 package com.clgPract;
 
-public class Numberplate_generator {
+public class  Numberplate_generator {
     public static void main(String[] args) {
         int alpha1 = 'A' + (int)(Math.random() * ('Z' - 'A'));
         int alpha2 = 'A' + (int)(Math.random() * ('Z' - 'A'));
