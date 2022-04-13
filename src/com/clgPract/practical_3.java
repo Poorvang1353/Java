@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.*;
-public class Percentage {
+public class practical_3{
 
     public static void main(String[] args) {
         double a,b,c,d,e,f,average;

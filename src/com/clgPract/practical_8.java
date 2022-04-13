@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.Scanner;
-public class Vowel_constant {
+public class practical_8 {
 
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);

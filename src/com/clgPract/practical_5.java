@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.Scanner;
-public class feet_into_meter {
+public class practical_5 {
     public static void main(String[] args) {
         double meter;
         Scanner in = new Scanner(System.in);

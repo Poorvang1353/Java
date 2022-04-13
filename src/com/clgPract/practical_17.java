@@ -26,7 +26,7 @@ class Cherry extends Apple
     }
 }
 
-class dynamic_method_dispatch
+public class practical_17
 {
     public static void main(String args[])
     {

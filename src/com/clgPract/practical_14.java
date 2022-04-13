@@ -24,7 +24,7 @@ class Area {
     }
 }
 
-public class Area_of_circle {
+public class practical_14 {
     public static void main(String[] args) {
         Area cir = new Area();
         Area reg = new Area();

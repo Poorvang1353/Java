@@ -2,7 +2,7 @@ package com.clgPract;
 
 import java.util.Scanner;
 
-public class Recursion_factorial {
+public class practical_16 {
     static int factorial(int n){
         if (n==0 || n==1)
             return 1;

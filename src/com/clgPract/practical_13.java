@@ -9,10 +9,11 @@ class BabyDog extends Dog1{
     void weep(){System.out.println("weeping...");}
 }
 
-class multilevel_inheritance{
+public class practical_13{
     public static void main(String args[]){
         BabyDog d=new BabyDog();
         d.weep();
         d.bark();
         d.eat();
-    }}
+    }
+}

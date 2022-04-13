@@ -3,7 +3,7 @@ package com.clgPract;
 import java.util.Scanner;
 import java.lang.*;
 
-public class Pattern1
+public class practical_9
 {
     public static void main(String[] args){
         int i,j,len,k;

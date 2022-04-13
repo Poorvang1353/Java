@@ -4,7 +4,7 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 import java.util.*;
 
-public class Cramers_rule {
+public class practical_4 {
     public static void main(String[] args) {
         double a,b,c,d,e,f,x,y;
         System.out.println("Enter eq-1");

@@ -2,7 +2,7 @@ package com.clgPract;
 
 import java.util.Scanner;
 
-public class Palindrome_number {
+public class practical_11 {
     public static void main(String[] args) {
         int rev, sum=0, temp;
         System.out.println("Enter a number: ");

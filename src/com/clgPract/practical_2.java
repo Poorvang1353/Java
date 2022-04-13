@@ -2,7 +2,7 @@ package com.clgPract;
 
 import java.util.*;
 
-public class Rupees {
+public class practical_2{
     public static void main(String[] args) {
         double rupees;
         System.out.println("Enter the value of rupees: ");

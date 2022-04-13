@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.Scanner;
-public class Ascending
+public class practical_7
 {
 
     public static void main(String[] args)

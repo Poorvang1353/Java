@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.*;
-class SubString
+public class practical_10
 {
     public static void main(String m[])
     {

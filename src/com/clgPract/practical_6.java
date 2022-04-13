@@ -1,7 +1,7 @@
 package com.clgPract;
 
 import java.util.Scanner;
-class Cepital_small
+public class practical_6
 {
     public static void main(String a[])
     {
