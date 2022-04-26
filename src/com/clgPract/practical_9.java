@@ -1,38 +1,23 @@
 package com.clgPract;
 
-import java.util.Scanner;
-import java.lang.*;
+/*Write an interactive program to print a string entered in a pyramid form. For instance, the string
+“stream” has to be displayed as follows: */
 
-public class practical_9
-{
-    public static void main(String[] args){
-        int i,j,len,k;
+public class practical_9{
+    public static void main(String[] args) {
+        int i, j, k;
+        String str = "Stream";
 
-        String str=new String();
-        char ch[]=new char[25];
-        Scanner s=new Scanner(System.in);
+        for (i = 0; i < str.length(); i++) {
 
-        System.out.print("\nEnter your string: ");
-        str=s.nextLine();
-
-        len=str.length();
-        ch=str.toCharArray();
-        k=len;
-
-        for(i=len;i>=0;i--)
-        {
-            for(j=0;j<=len;j++)
-            {
-                if(i < j)
-                {
-                    System.out.print(ch[len-k] +" ");
-                    k--;
-                }
-                else
-                    System.out.print(" ");
+            for (j = (str.length() / 2) + 1; j >= i; j--) {
+                System.out.print(" ");
             }
+            for (k = 0; k <= i; k++) {
+                System.out.print(str.charAt(k) + " ");
+            }
+
             System.out.println();
-            k=len;
         }
     }
 }

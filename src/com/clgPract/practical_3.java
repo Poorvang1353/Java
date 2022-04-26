@@ -1,3 +1,5 @@
+//Write a program that calculates percentage marks of the student if marks of 6 subjects are given
+
 package com.clgPract;
 
 import java.util.*;

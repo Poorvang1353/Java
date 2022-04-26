@@ -1,3 +1,5 @@
+//Write a java program to demonstrate multilevel inheritance
+
 package com.clgPract;
 class Animal1{
     void eat(){System.out.println("eating...");}

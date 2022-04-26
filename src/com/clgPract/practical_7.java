@@ -1,3 +1,5 @@
+//Write a program that prompts the user to enter three integers and display the integers in decreasing order
+
 package com.clgPract;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//Write a program to convert rupees to dollar. 70 rupees=1 dollar.
+
 package com.clgPract;
 
 import java.util.*;

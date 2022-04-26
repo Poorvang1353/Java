@@ -1,3 +1,6 @@
+/*Refine the student manager program to manipulate the student information from files by
+using the BufferedReader and BufferedWriter*/
+
 package com.clgPract;
 
 import java.io.BufferedReader;

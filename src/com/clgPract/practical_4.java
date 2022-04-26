@@ -1,6 +1,6 @@
-package com.clgPract;
+//Assume Cramer’s rule to solve equation
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package com.clgPract;
 
 import java.util.*;
 
@@ -15,7 +15,7 @@ public class practical_4 {
         b = in.nextDouble();
         System.out.println("Enter e: ");
         e = in.nextDouble();
-        System.out.println(" "+a+"x"+b+"y="+e);
+        System.out.println(" "+a+"x + "+b+"y="+e);
 
         System.out.println("Enter eq-2");
         System.out.println("Enter c");
@@ -24,7 +24,7 @@ public class practical_4 {
         d = in.nextDouble();
         System.out.println("Enter f");
         f = in.nextDouble();
-        System.out.println(" "+c+"x"+d+"y="+f);
+        System.out.println(" "+c+"x + "+d+"y="+f);
         x=((a*d)-(b*f))/((a*d)-(b*c));
         y=((a*f)-(e*c))/((a*d)-(b*c));
         System.out.println("X="+x+" Y="+y);

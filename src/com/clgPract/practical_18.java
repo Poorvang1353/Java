@@ -1,3 +1,5 @@
+//Write a java program to demonstrate the concept of interface
+
 package com.clgPract;
 
 // create an interface

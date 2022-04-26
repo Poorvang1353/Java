@@ -1,3 +1,6 @@
+/*Write a program to create two threads, one thread will print odd numbers and second
+thread will print even numbers between 1 to 20 numbers.*/
+
 package com.clgPract;
 
 public class practical_20{

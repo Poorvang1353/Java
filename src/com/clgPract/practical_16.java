@@ -1,3 +1,5 @@
+//Design a class which finds out the factorial of a given number using recursion
+
 package com.clgPract;
 
 import java.util.Scanner;

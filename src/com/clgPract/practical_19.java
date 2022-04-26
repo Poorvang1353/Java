@@ -1,3 +1,5 @@
+//Write a program to show divide by zero error through exception, and also try to catch the exception
+
 package com.clgPract;
 import java.io.*;
 

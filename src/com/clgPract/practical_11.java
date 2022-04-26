@@ -1,3 +1,5 @@
+//Write a program to find that given number or string is palindrome or not
+
 package com.clgPract;
 
 import java.util.Scanner;

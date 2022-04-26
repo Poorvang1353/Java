@@ -1,3 +1,5 @@
+//Write a java program to demonstrate the use of dynamic method dispatch.
+
 package com.clgPract;
 
 // Implementing Dynamic Method Dispatch
